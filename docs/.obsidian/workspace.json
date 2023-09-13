@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "foo-tab/文章.md",
+                "file": "robot/文章.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "foo-tab2/1name.md",
+                "file": "Medchat.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "foo-tab2/1name.md",
+                "file": "Medchat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "foo-tab2/1name.md",
+                "file": "Medchat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "foo-tab2/1name.md"
+                "file": "Medchat.md"
               }
             }
           }
@@ -156,17 +156,22 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "excalidraw-cn:Create New Excalidraw File": false
     }
   },
   "active": "2eb3a21601754fd8",
   "lastOpenFiles": [
-    "foo-tab/文章.md",
-    "foo-tab2/1name.md",
-    "foo-tab/example.md",
-    "foo-tab2",
-    "attachment/portrait.png",
-    "test.md",
-    "tutorial.md"
+    "AI/1name.md",
+    "tutorial.md",
+    "Medchat.md",
+    "Pasted image 20230912212719.png",
+    "index.md",
+    "robot/文章.md",
+    "robot/example.md",
+    "AI",
+    "attachment/portrait.png"
   ]
 }
